@@ -1,0 +1,12 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "NORMAL",
+    "PNEUMONIA"
+  ],
+  "preprocess": "mobilenet_v2",
+  "threshold": 0.5
+}

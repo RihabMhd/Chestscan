@@ -1,0 +1,12 @@
+{
+  "img_size": [
+    180,
+    180
+  ],
+  "class_names": [
+    "NORMAL",
+    "PNEUMONIA"
+  ],
+  "preprocess": "rescaling_in_model",
+  "threshold": 0.5
+}
